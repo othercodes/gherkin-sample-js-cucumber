@@ -1,0 +1,8 @@
+{
+  "name": "gherkin-sample-js-cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "cucumber": "^4.0.0"
+  }
+}
